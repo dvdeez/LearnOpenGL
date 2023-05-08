@@ -1,2 +1,2 @@
 # LearnOpenGL
-Progressing through modules from learnopengl.com
+Working through modules from learnopengl.com
